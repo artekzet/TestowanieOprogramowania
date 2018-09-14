@@ -48,7 +48,7 @@
 31. Jak upewnisz się, że to, co znalazłeś, to defekt w aplikacji?
 32. Jak powinno wyglądać zgłoszenie defektu?
 33. Proszę opisać cykl życia defektu?
-34. Co zrobisz, jeżeli programista stwierdzi, że to, co zgłosiłeś jako defekt, nie jest defektem
+34. Co zrobisz, jeżeli programista stwierdzi, że to, co zgłosiłeś jako defekt, nie jest defektem?
 35. Co zrobisz, jeżeli zostało mało czasu, a Ty już wiesz, że nie zdążysz czegoś przetestować?
 36. Co to są testy regresji?
 37. Czym się różnią testy regresji od re-testów?
